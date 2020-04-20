@@ -1,0 +1,7 @@
+build
+docs
+vendor
+build
+.idea
+composer.lock
+coverage
